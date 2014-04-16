@@ -95,7 +95,7 @@ h1.title {
   display: inline-block;
   background: #0c92bf;
   padding: 15px 25px;
-  font-size: 25px;
+  font-size: 25x;
   height: 25px;
   line-height: 47px;
   font-weight: bold;
@@ -394,46 +394,57 @@ hr {
   .tile.tile-2 .tile-inner {
     background: url('../tile-sets/presidents/2.png');
     background-size: 100%;
+    font-size: 1px;
   }
   .tile.tile-4 .tile-inner {
     background: url('../tile-sets/presidents/4.png');
     background-size: 100%;
+    font-size: 1px;
   }
   .tile.tile-8 .tile-inner {
     background: url('../tile-sets/presidents/8.png');
     background-size: 100%;
+    font-size: 1px;
   }
   .tile.tile-16 .tile-inner {
     background: url('../tile-sets/presidents/16.png');
     background-size: 100%;
+    font-size: 1px;
   }
   .tile.tile-32 .tile-inner {
     background: url('../tile-sets/presidents/32.png');
     background-size: 100%;
+    font-size: 1px;
   }
   .tile.tile-64 .tile-inner {
     background: url('../tile-sets/presidents/64.png');
     background-size: 100%;
+    font-size: 1px;
   }
   .tile.tile-128 .tile-inner {
     background: url('../tile-sets/presidents/128.png');
     background-size: 100%;
+    font-size: 1px;
   }
   .tile.tile-256 .tile-inner {
     background: url('../tile-sets/presidents/256.png');
     background-size: 100%;
+    font-size: 1px;
   }
   .tile.tile-512 .tile-inner {
     background: url('../tile-sets/presidents/512.png');
     background-size: 100%;
+    font-size: 1px;
   }
   .tile.tile-1024 .tile-inner {
     background: url('../tile-sets/presidents/1024.png');
     background-size: 100%;
+    font-size: 1px;
   }
   .tile.tile-2048 .tile-inner {
     background: url('../tile-sets/presidents/2048.png');
     background-size: 100%;
+    font-size: 1px;
   }
 
 @-webkit-keyframes appear {
