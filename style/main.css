@@ -392,47 +392,47 @@ hr {
   -moz-transition-property: -moz-transform;
   transition-property: transform; }
   .tile.tile-2 .tile-inner {
-    background: url('../tile-sets/udacity/2.png');
+    background: url('../tile-sets/presidents/2.png');
     background-size: 100%;
   }
   .tile.tile-4 .tile-inner {
-    background: url('../tile-sets/udacity/4.png');
+    background: url('../tile-sets/presidents/4.png');
     background-size: 100%;
   }
   .tile.tile-8 .tile-inner {
-    background: url('../tile-sets/udacity/8.png');
+    background: url('../tile-sets/presidents/8.png');
     background-size: 100%;
   }
   .tile.tile-16 .tile-inner {
-    background: url('../tile-sets/udacity/16.png');
+    background: url('../tile-sets/presidents/16.png');
     background-size: 100%;
   }
   .tile.tile-32 .tile-inner {
-    background: url('../tile-sets/udacity/32.png');
+    background: url('../tile-sets/presidents/32.png');
     background-size: 100%;
   }
   .tile.tile-64 .tile-inner {
-    background: url('../tile-sets/udacity/64.png');
+    background: url('../tile-sets/presidents/64.png');
     background-size: 100%;
   }
   .tile.tile-128 .tile-inner {
-    background: url('../tile-sets/udacity/128.png');
+    background: url('../tile-sets/presidents/128.png');
     background-size: 100%;
   }
   .tile.tile-256 .tile-inner {
-    background: url('../tile-sets/udacity/256.png');
+    background: url('../tile-sets/presidents/256.png');
     background-size: 100%;
   }
   .tile.tile-512 .tile-inner {
-    background: url('../tile-sets/udacity/512.png');
+    background: url('../tile-sets/presidents/512.png');
     background-size: 100%;
   }
   .tile.tile-1024 .tile-inner {
-    background: url('../tile-sets/udacity/1024.png');
+    background: url('../tile-sets/presidents/1024.png');
     background-size: 100%;
   }
   .tile.tile-2048 .tile-inner {
-    background: url('../tile-sets/udacity/2048.png');
+    background: url('../tile-sets/presidents/2048.png');
     background-size: 100%;
   }
 
